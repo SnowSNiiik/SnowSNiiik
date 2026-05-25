@@ -56,6 +56,6 @@ A repository dedicated to implementing and exploring fundamental algorithms in c
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SnowSNiiik)](https://github.com/SnowSNiiik/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=SnowSNiiik&layout=compact)](https://github.com/SnowSNiiik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=SnowSNiiik)](https://github.com/SnowSNiiik/github-readme-stats)
 
 

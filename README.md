@@ -33,7 +33,7 @@ A collection of algorithmic solutions to bioinformatics problems from Rosalind.i
 My learning repository for bioinformatics concepts, including Biopython and molecular/cellular biology, structured for clarity.
 
 <a href="https://github.com/SnowSNiiik/computational-biology-algorithms">📓</a>
-**[bioinformatics-learning-notes](https://github.com/SnowSNiiik/computational-biology-algorithms):** 
+**[computational-biology-algorithms](https://github.com/SnowSNiiik/computational-biology-algorithms):** 
 A repository dedicated to implementing and exploring fundamental algorithms in computational biology and bioinformatics, based on the textbook “Bioinformatics Algorithms: An Active Approach.” Focuses on core concepts like sequence alignment, string processing, phylogenetics, and data structures.
 
 ---

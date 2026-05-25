@@ -16,25 +16,21 @@ Now, with great enthusiasm, I am applying my skills to the fields of **Bioinform
 
 Below are some key projects that highlight my current capabilities in this domain:
 
-<a href="https://github.com/SnowSNiiik/cancer-genomics-ml">
-  <img src="link-to-your-repo-image-or-icon" align="left" alt="Cancer Genomics ML" width="50" height="50" />
-</a>
-**[cancer-genomics-ml](https://github.com/SnowSNiiik/cancer-genomics-ml):** My flagship project utilizing machine learning for cancer genomics data analysis. This repo features advanced analyses, data visualizations, and predictive models.
+<a href="https://github.com/SnowSNiiik/cancer-genomics-ml">🧫</a>
+**[cancer-genomics-ml](https://github.com/SnowSNiiik/cancer-genomics-ml):** 
+My flagship project utilizing machine learning for cancer genomics data analysis. This repo features advanced analyses, data visualizations, and predictive models.
 
-<a href="https://github.com/SnowSNiiik/drug-discovery-exploration">
-  <img src="link-to-your-repo-image-or-icon" align="left" alt="Drug Discovery Exploration" width="50" height="50" />
-</a>
-**[drug-discovery-exploration](https://github.com/SnowSNiiik/drug-discovery-exploration):** An exploration into the correlation between molecular structures and protein interactions, including the application of ML in drug discovery pipelines.
+<a href="https://github.com/SnowSNiiik/drug-discovery-exploration">🔬</a>
+**[drug-discovery-exploration](https://github.com/SnowSNiiik/drug-discovery-exploration):** 
+An exploration into the correlation between molecular structures and protein interactions, including the application of ML in drug discovery pipelines.
 
-<a href="https://github.com/SnowSNiiik/rosalind-solutions">
-  <img src="link-to-your-repo-image-or-icon" align="left" alt="Rosalind Solutions" width="50" height="50" />
-</a>
-**[rosalind-solutions](https://github.com/SnowSNiiik/rosalind-solutions):** A collection of algorithmic solutions to bioinformatics problems from Rosalind.info, demonstrating a grasp of computational biology fundamentals.
+<a href="https://github.com/SnowSNiiik/rosalind-solutions">🧬</a>
+**[rosalind-solutions](https://github.com/SnowSNiiik/rosalind-solutions):** 
+A collection of algorithmic solutions to bioinformatics problems from Rosalind.info, demonstrating a grasp of computational biology fundamentals.
 
-<a href="https://github.com/SnowSNiiik/bioinformatics-learning-notes">
-  <img src="link-to-your-repo-image-or-icon" align="left" alt="Bioinformatics Learning Notes" width="50" height="50" />
-</a>
-**[bioinformatics-learning-notes](https://github.com/SnowSNiiik/bioinformatics-learning-notes):** My learning repository for bioinformatics concepts, including Biopython and molecular/cellular biology, structured for clarity.
+<a href="https://github.com/SnowSNiiik/bioinformatics-learning-notes">📚</a>
+**[bioinformatics-learning-notes](https://github.com/SnowSNiiik/bioinformatics-learning-notes):** 
+My learning repository for bioinformatics concepts, including Biopython and molecular/cellular biology, structured for clarity.
 
 ---
 

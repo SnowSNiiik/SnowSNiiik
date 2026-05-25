@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hello! I'm Sepideh Nikmehr.
 
-<!--
-**SnowSNiiik/SnowSNiiik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Bioinformatics Data Scientist passionate about uncovering therapeutic insights by integrating Machine Learning with Molecular Biology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Journey: From Code to Cures
+
+Previously, as a **Frontend Developer**, I specialized in crafting engaging user interfaces and optimizing user experiences. This experience provided me with a strong foundation in programming, problem-solving, and a deep understanding of user needs.
+
+Now, with great enthusiasm, I am applying my skills to the fields of **Bioinformatics** and **Cancer Research**. My focus is on leveraging advanced **Machine Learning** techniques to analyze genomic and proteomic data, ultimately contributing to the discovery of novel drugs and targeted therapies.
+
+---
+
+## Featured Projects
+
+Below are some key projects that highlight my current capabilities in this domain:
+
+<a href="https://github.com/SnowSNiiik/cancer-genomics-ml">
+  <img src="link-to-your-repo-image-or-icon" align="left" alt="Cancer Genomics ML" width="50" height="50" />
+</a>
+**[cancer-genomics-ml](https://github.com/SnowSNiiik/cancer-genomics-ml):** My flagship project utilizing machine learning for cancer genomics data analysis. This repo features advanced analyses, data visualizations, and predictive models.
+
+<a href="https://github.com/SnowSNiiik/drug-discovery-exploration">
+  <img src="link-to-your-repo-image-or-icon" align="left" alt="Drug Discovery Exploration" width="50" height="50" />
+</a>
+**[drug-discovery-exploration](https://github.com/SnowSNiiik/drug-discovery-exploration):** An exploration into the correlation between molecular structures and protein interactions, including the application of ML in drug discovery pipelines.
+
+<a href="https://github.com/SnowSNiiik/rosalind-solutions">
+  <img src="link-to-your-repo-image-or-icon" align="left" alt="Rosalind Solutions" width="50" height="50" />
+</a>
+**[rosalind-solutions](https://github.com/SnowSNiiik/rosalind-solutions):** A collection of algorithmic solutions to bioinformatics problems from Rosalind.info, demonstrating a grasp of computational biology fundamentals.
+
+<a href="https://github.com/SnowSNiiik/bioinformatics-learning-notes">
+  <img src="link-to-your-repo-image-or-icon" align="left" alt="Bioinformatics Learning Notes" width="50" height="50" />
+</a>
+**[bioinformatics-learning-notes](https://github.com/SnowSNiiik/bioinformatics-learning-notes):** My learning repository for bioinformatics concepts, including Biopython and molecular/cellular biology, structured for clarity.
+
+---
+
+## Skills
+
+*   **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Biopython), JavaScript, HTML, CSS
+*   **Bioinformatics:** Sequence Analysis, Genomics Data Analysis, Basic Drug Discovery Principles
+*   **Machine Learning:** Supervised & Unsupervised Learning, Data Visualization, Model Evaluation
+*   **Tools:** Git, GitHub, Jupyter Notebooks, React
+
+---
+
+## Research Interests
+
+*   Drug Discovery
+*   Cancer Biology
+*   Genomic Data Analysis
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SnowSNiiik)](https://github.com/SnowSNiiik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=SnowSNiiik&layout=compact)](https://github.com/SnowSNiiik/github-readme-stats)
+
+

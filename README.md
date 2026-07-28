@@ -66,6 +66,7 @@ A repository dedicated to implementing and exploring fundamental algorithms in c
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/></a>
 <a href="https://biopython.org" target="_blank"> <img src="https://biopython.org/docs/latest/_static/biopython_logo.svg" alt="biopython" height='42px'/></a>
+<a href="https://usegalaxy.org/" target="_blank"> <img src="https://usegalaxy.org/static/favicon.svg" alt="galaxy" height='42px'/></a>
 
 
 

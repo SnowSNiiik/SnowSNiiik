@@ -40,7 +40,7 @@ A repository dedicated to implementing and exploring fundamental algorithms in c
 
 ## Skills
 
-*   **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Biopython), JavaScript, HTML, CSS
+*   **Programming Languages:** Python (Pandas, NumPy, Scikit-learn, Biopython), JavaScript, HTML, CSS, 
 *   **Bioinformatics:** Sequence Analysis, Genomics Data Analysis, Basic Drug Discovery Principles
 *   **Machine Learning:** Supervised & Unsupervised Learning, Data Visualization, Model Evaluation
 *   **Tools:** Git, GitHub, Jupyter Notebooks, React

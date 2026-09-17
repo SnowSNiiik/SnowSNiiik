@@ -1,4 +1,4 @@
-# Hello! I'm Sepideh Nikmehr.
+# Hello! I'm Sepideh.
 
 I am a Bioinformatics Data Scientist passionate about uncovering therapeutic insights by integrating Machine Learning with Molecular Biology.
 
